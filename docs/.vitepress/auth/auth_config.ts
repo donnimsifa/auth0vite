@@ -1,7 +1,7 @@
 // src/auth/auth_config.js
 const config = {
-  domain: "learning-center.jp.auth0.com",
-  clientId: "H7YTnCjJ9h1w5267EcvOftcteJyQZa2g",
+  domain: "dev-flejr528k0obiy4o.us.auth0.com",
+  clientId: "vSW1jsPI9IeOaBmbIIwVKCc03ziBoPkv",
 };
   
 export default config;

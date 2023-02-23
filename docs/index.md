@@ -9,5 +9,5 @@ hero:
       link: /guide/
     - theme: alt
       text: try me
-      link: /try/
+      link: /test/
 ---
